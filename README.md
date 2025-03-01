@@ -12,3 +12,9 @@ A simple C program where the user guesses a randomly generated number between 1 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/random-number-guesser.git
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/your-username/random-number-guesser.git
+git push -u origin main
